@@ -5,6 +5,7 @@ Gradle lädt für uns Bibliotheken aus dem Internet in der Version die wir angeb
 Zum Testen brauchen wir die `JUnit` Bibliothek. 
 
 Structure of a gradle project in IntelliJ:
+
 ![Structure of a gradle project in IntelliJ](structure.PNG)
 
 Falls die src/main/java und src/test/java Ordner fehlen, dann können wir diese einfach erstellen.
